@@ -57,3 +57,14 @@ Uses pandas to process user input and scikit-learn for model prediction.
 
 Offline Support:
 Does not require paid API keys; fully functional AI module for demo purposes.
+
+
+
+Access your app in the browser
+
+Open any browser and go to:
+
+http://127.0.0.1:5000
+
+
+You should see your index.html page if you set up Flask to serve it.
