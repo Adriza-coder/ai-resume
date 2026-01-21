@@ -59,6 +59,30 @@ Offline Support:
 Does not require paid API keys; fully functional AI module for demo purposes.
 
 
+How to Run
+
+Open CMD in your CareerGenie folder:
+
+cd C:\Users\ADRIZA\OneDrive\Desktop\CareerGenie
+
+
+Start Flask:
+
+python app.py
+
+
+Open your browser:
+
+http://127.0.0.1:5000/
+
+
+Fill out the form → Click Generate Resume with AI
+
+Mock resume appears as before
+
+AI-predicted domain appears below
+
+
 
 Access your app in the browser
 
